@@ -23,7 +23,7 @@ Projeto Java Web com estrutura **MVC** que permite:
 - Java EE (**Servlets** e **JSP**)
 - **JDBC** com **DAO Pattern**
 - Servidor **Tomcat**
-- Banco de Dados Relacional (ex: MySQL ou PostgreSQL)
+- Banco de Dados Relacional (ex: MySQL WorkBench)
 - **HTML/CSS** (Templates em JSP)
 
 ---
@@ -48,7 +48,7 @@ Projeto Java Web com estrutura **MVC** que permite:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/livrariaProjeto.git
+git clone https://github.com/matheusfna/Livraria-Java-Web.git
 
 # 2. Importe o projeto em sua IDE (Eclipse, IntelliJ ou VS Code com extensões Java)
 # 3. Configure o servidor Tomcat no projeto
